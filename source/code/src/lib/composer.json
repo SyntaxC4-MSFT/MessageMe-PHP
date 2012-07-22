@@ -1,0 +1,12 @@
+{
+	"repositories": [
+		{
+			"type": "pear",
+			"url": "http://pear.php.net"
+		}
+	],
+	"require": {
+		"microsoft/windowsazure": "*",
+		"silex/silex": ">=1.0"
+	}
+}
