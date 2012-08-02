@@ -10,5 +10,5 @@
 		"silex/silex": ">=1.0",
 		"twig/twig": ">=1.8,<2.0-dev"
 	},
-	"include-path": ["/vendor/pear-pear/"]
+	"minimum-stability": "dev"
 }
