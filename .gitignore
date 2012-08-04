@@ -1,4 +1,4 @@
 vendor/
 bootstrap/
 [Cc]omposer.phar
-[Cc]onfig.php
+code/src/[Cc]onfig.php
