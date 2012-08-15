@@ -18,18 +18,20 @@ To limit the time needed to prepare for this demo, the dependencies will be down
 1. Ensure `Composer.json` contains:
 
    ```
-   {
-	   "repositories": [
-		   {
-			   "type": "pear",
-			   "url": "http://pear.php.net"
-		   }
-	   ],
-	   "require": {
-		   "microsoft/windowsazure": "*",
-		   "silex/silex": "1.0.*"
-	   }
-   }
+{
+	"repositories": [
+		{
+			"type": "pear",
+			"url": "http://pear.php.net"
+		}
+	],
+	"require": {
+		"microsoft/windowsazure": "*",
+		"silex/silex": ">=1.0",
+		"twig/twig": ">=1.8,<2.0-dev"
+	},
+	"minimum-stability": "dev"
+}
    ```
 
 1. From the command line, run `php Composer.phar Install`.
