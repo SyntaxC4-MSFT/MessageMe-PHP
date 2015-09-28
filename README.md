@@ -1,10 +1,10 @@
----
-services:
-platforms:
-author: azure
----
-
-Demo-SBMessageMe-PHP
-====================
-
+# MessageMe-PHP
 Send a Message to the presenter using Service Bus
+## Running this sample
+Coming soon...
+## Deploy this sample to Azure
+Coming soon...
+## About the code
+Coming soon...
+## More information
+Coming soon...
